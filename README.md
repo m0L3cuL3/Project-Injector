@@ -6,4 +6,4 @@ Visual Basic .NET
 
 ## Screenshots
 <b>Main Form</b>
-<img src="screenshot/injector.PNG>
+<img src="screenshots/injector.PNG>
