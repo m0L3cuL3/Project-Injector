@@ -1,0 +1,24 @@
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\bin\Debug\Project-Injector.exe.config
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\bin\Debug\Project-Injector.exe
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\bin\Debug\Project-Injector.pdb
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\bin\Debug\Project-Injector.xml
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project-Injector.vbprojAssemblyReference.cache
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project_Injector.Form1.resources
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project_Injector.Resources.resources
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project-Injector.vbproj.GenerateResource.cache
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project-Injector.vbproj.CoreCompileInputs.cache
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project-Injector.exe
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project-Injector.xml
+D:\Projects (Visual Studio)\Project-Injector\Project-Injector\obj\Debug\Project-Injector.pdb
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\bin\Debug\Project-Injector.exe.config
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\bin\Debug\Project-Injector.exe
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\bin\Debug\Project-Injector.pdb
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\bin\Debug\Project-Injector.xml
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project-Injector.vbprojResolveAssemblyReference.cache
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project_Injector.Form1.resources
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project_Injector.Resources.resources
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project-Injector.vbproj.GenerateResource.Cache
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project-Injector.vbproj.CoreCompileInputs.cache
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project-Injector.exe
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project-Injector.xml
+D:\CodingFiles\Projects\Project-Injector\Project-Injector\obj\Debug\Project-Injector.pdb
